@@ -4,3 +4,4 @@
 proxies:
   - {"server":"a.syiyi.site","port":6200,"tls":false,"tfo":false,"udp":false,"name":"NeteaseMusic Unlock syiyi","type":"http"}
   - {"server":"101.132.79.113","port":23333,"tfo":false,"udp":false,"name":"NeteaseMusic Unlock 1","type":"http"}
+
