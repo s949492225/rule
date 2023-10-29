@@ -2,7 +2,7 @@
 # > All Nodes
 # > 2022.07.16
 proxies:
-  - {"server":"a.syiyi.site","port":5200,"tls":false,"tfo":false,"udp":false,"name":"NeteaseMusic Unlock syiyi1000","type":"http"}
+  - {"server":"a.syiyi.site","port":6200,"tls":false,"tfo":false,"udp":false,"name":"NeteaseMusic Unlock syiyi1000","type":"http"}
   - {"server":"101.132.79.113","port":23333,"tfo":false,"udp":false,"name":"NeteaseMusic Unlock 4","type":"http"}
   - {"server":"music.griouges.cn","port":39000,"tls":false,"tfo":false,"udp":false,"name":"NeteaseMusic Unlock 5","type":"http"}
   - {"server":"1.116.214.16","port":19980,"tls":false,"tfo":false,"udp":false,"name":"NeteaseMusic Unlock 6","type":"http"}
