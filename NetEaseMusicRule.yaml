@@ -7,5 +7,5 @@
 # IP-CIDR: 19
 # TOTAL: 30
 payload:
-  - DOMAIN-SUFFIX,music.163.com,Netease
-  - DOMAIN-SUFFIX,man.netease.com,Netease
+  - DOMAIN-SUFFIX,music.163.com
+  - DOMAIN-SUFFIX,man.netease.com
