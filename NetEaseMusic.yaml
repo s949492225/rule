@@ -2,4 +2,4 @@
 # > All Nodes
 # > 2022.07.16
 proxies:
-  - {"server":"a.syiyi.site","port":16200,"tls":false,"tfo":false,"udp":false,"name":"syiyi的nas","type":"http"}
+  - {"server":"a.syiyi.site","port":25200,"tls":false,"tfo":false,"udp":false,"name":"syiyi的nas","type":"http"}
